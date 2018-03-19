@@ -1,0 +1,1955 @@
+******************************************
+Swimming Pool opened for today - Have fun and don't drink too much water
+******************************************
+It's a week day ! Enjoy your stay.
+"******************************************"    
+12 new customers have arrived.
+Client 0 bought his ticket
+Client 11 bought his ticket
+Client 0 starts changing. In total, 1 persons in changing room.
+Client 10 bought his ticket
+Client 11 starts changing. In total, 2 persons in changing room.
+Client 10 starts changing. In total, 3 persons in changing room.
+Client 9 bought his ticket
+Client 8 bought his ticket
+Client 9 starts changing. In total, 4 persons in changing room.
+Client 8 starts changing. In total, 5 persons in changing room.
+Client 7 bought his ticket
+Client 7 starts changing. In total, 6 persons in changing room.
+Client 6 bought his ticket
+Client 6 starts changing. In total, 7 persons in changing room.
+Client 5 bought his ticket
+Client 4 bought his ticket
+Client 5 starts changing. In total, 8 persons in changing room.
+Client 4 starts changing. In total, 9 persons in changing room.
+Client 3 bought his ticket
+Client 3 starts changing. In total, 10 persons in changing room.
+Client 2 bought his ticket
+Client 0 leaves changing room. In total, 9 persons in changing room.
+Client 0 swimming now for the next 57 minutes.
+Client 2 starts changing. In total, 10 persons in changing room.
+Client 1 bought his ticket
+Client 11 leaves changing room. In total, 9 persons in changing room.
+Client 11 swimming now for the next 4 minutes.
+Client 1 starts changing. In total, 10 persons in changing room.
+Client 10 leaves changing room. In total, 9 persons in changing room.
+Client 10 swimming now for the next 48 minutes.
+Client 9 leaves changing room. In total, 8 persons in changing room.
+Client 9 is renting a pair of swimming fins. 6 swim fins left.
+Client 9 swimming now for the next 40 minutes.
+Client 8 leaves changing room. In total, 7 persons in changing room.
+Client 8 is renting a pair of swimming fins. 4 swim fins left.
+Client 8 swimming now for the next 44 minutes.
+Client 7 leaves changing room. In total, 6 persons in changing room.
+Client 7 swimming now for the next 49 minutes.
+Client 11 leaves pool. Swimming over.
+Client 11 starts changing. In total, 7 persons in changing room.
+Client 6 leaves changing room. In total, 6 persons in changing room.
+Client 6 swimming now for the next 43 minutes.
+Client 5 leaves changing room. In total, 5 persons in changing room.
+Client 5 swimming now for the next 42 minutes.
+Client 4 leaves changing room. In total, 4 persons in changing room.
+Client 4 is renting a pair of swimming fins. 2 swim fins left.
+Client 4 swimming now for the next 57 minutes.
+Jean Luc has arrived. 'Je veux NETTOYER' 
+Client 3 leaves changing room. In total, 3 persons in changing room.
+Client 3 is renting a pair of swimming fins. 0 swim fins left.
+Client 3 swimming now for the next 41 minutes.
+Client 2 leaves changing room. In total, 2 persons in changing room.
+Client 2 waiting to get swim fins.
+Client 1 leaves changing room. In total, 1 persons in changing room.
+Client 1 swimming now for the next 11 minutes.
+Client 11 leaves changing room. In total, 0 persons in changing room.
+Client 1 leaves pool. Swimming over.
+Client 1 starts changing. In total, 1 persons in changing room.
+Client 1 leaves changing room. In total, 0 persons in changing room.
+Client 9 leaves pool. Swimming over.
+Client 9 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 9 starts changing. In total, 1 persons in changing room.
+Client 2 is renting a pair of swimming fins. 0 swim fins left.
+Client 2 swimming now for the next 30 minutes.
+Client 8 leaves pool. Swimming over.
+Client 8 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 8 starts changing. In total, 2 persons in changing room.
+4 new customers have arrived.
+Client 12 bought his ticket
+Client 5 leaves pool. Swimming over.
+Client 5 starts changing. In total, 3 persons in changing room.
+Client 6 leaves pool. Swimming over.
+Client 6 starts changing. In total, 4 persons in changing room.
+Client 15 bought his ticket
+Client 12 starts changing. In total, 5 persons in changing room.
+Client 10 leaves pool. Swimming over.
+Client 10 starts changing. In total, 6 persons in changing room.
+Client 15 starts changing. In total, 7 persons in changing room.
+Client 14 bought his ticket
+Client 3 leaves pool. Swimming over.
+Client 3 is returning the borrowed swimming fins. 4 swim finds are still available
+Client 3 starts changing. In total, 8 persons in changing room.
+Client 14 starts changing. In total, 9 persons in changing room.
+Client 13 bought his ticket
+Client 9 leaves changing room. In total, 8 persons in changing room.
+Client 13 starts changing. In total, 9 persons in changing room.
+Client 7 leaves pool. Swimming over.
+Client 7 starts changing. In total, 10 persons in changing room.
+Client 0 leaves pool. Swimming over.
+Client 0 starts changing. In total, 11 persons in changing room.
+Client 8 leaves changing room. In total, 10 persons in changing room.
+Client 5 leaves changing room. In total, 9 persons in changing room.
+Client 6 leaves changing room. In total, 8 persons in changing room.
+Client 12 leaves changing room. In total, 7 persons in changing room.
+Client 12 is renting a pair of swimming fins. 2 swim fins left.
+Client 12 swimming now for the next 14 minutes.
+Client 10 leaves changing room. In total, 6 persons in changing room.
+Client 15 leaves changing room. In total, 5 persons in changing room.
+Client 15 is renting a pair of swimming fins. 0 swim fins left.
+Client 15 swimming now for the next 5 minutes.
+Client 3 leaves changing room. In total, 4 persons in changing room.
+Client 14 leaves changing room. In total, 3 persons in changing room.
+Client 14 swimming now for the next 59 minutes.
+Client 13 leaves changing room. In total, 2 persons in changing room.
+Client 13 swimming now for the next 44 minutes.
+Client 7 leaves changing room. In total, 1 persons in changing room.
+Client 4 leaves pool. Swimming over.
+Client 4 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 4 starts changing. In total, 2 persons in changing room.
+Client 15 leaves pool. Swimming over.
+Client 15 is returning the borrowed swimming fins. 4 swim finds are still available
+Client 15 starts changing. In total, 3 persons in changing room.
+Client 0 leaves changing room. In total, 2 persons in changing room.
+Client 2 leaves pool. Swimming over.
+Client 2 is returning the borrowed swimming fins. 6 swim finds are still available
+Client 2 starts changing. In total, 3 persons in changing room.
+Client 12 leaves pool. Swimming over.
+Client 12 is returning the borrowed swimming fins. 8 swim finds are still available
+Client 12 starts changing. In total, 4 persons in changing room.
+Client 4 leaves changing room. In total, 3 persons in changing room.
+Client 15 leaves changing room. In total, 2 persons in changing room.
+Client 2 leaves changing room. In total, 1 persons in changing room.
+Client 12 leaves changing room. In total, 0 persons in changing room.
+Client 13 leaves pool. Swimming over.
+Client 13 starts changing. In total, 1 persons in changing room.
+1 new customers have arrived.
+Client 16 bought his ticket
+Client 16 starts changing. In total, 2 persons in changing room.
+Client 13 leaves changing room. In total, 1 persons in changing room.
+Client 16 leaves changing room. In total, 0 persons in changing room.
+Client 16 swimming now for the next 24 minutes.
+Client 14 leaves pool. Swimming over.
+Client 14 starts changing. In total, 1 persons in changing room.
+Client 14 leaves changing room. In total, 0 persons in changing room.
+Client 16 leaves pool. Swimming over.
+Client 16 starts changing. In total, 1 persons in changing room.
+Jean Luc finished cleaning the pool. 'Avec plaisir' 
+Client 16 leaves changing room. In total, 0 persons in changing room.
+Jean Luc has arrived. 'Je veux NETTOYER' 
+Jean Luc finished cleaning the pool. 'Avec plaisir' 
+18 new customers have arrived.
+Client 17 bought his ticket
+Jean Luc has arrived. 'Je veux NETTOYER' 
+Jean Luc finished cleaning the pool. 'Avec plaisir' 
+Client 34 bought his ticket
+Client 17 starts changing. In total, 1 persons in changing room.
+Client 34 starts changing. In total, 2 persons in changing room.
+Client 33 bought his ticket
+Client 33 starts changing. In total, 3 persons in changing room.
+Client 32 bought his ticket
+Client 32 starts changing. In total, 4 persons in changing room.
+Client 31 bought his ticket
+Client 31 starts changing. In total, 5 persons in changing room.
+Client 30 bought his ticket
+Client 30 starts changing. In total, 6 persons in changing room.
+Client 29 bought his ticket
+Client 29 starts changing. In total, 7 persons in changing room.
+Client 28 bought his ticket
+Client 28 starts changing. In total, 8 persons in changing room.
+Client 27 bought his ticket
+Client 27 starts changing. In total, 9 persons in changing room.
+Client 26 bought his ticket
+Client 26 starts changing. In total, 10 persons in changing room.
+Client 25 bought his ticket
+Client 17 leaves changing room. In total, 9 persons in changing room.
+Client 17 swimming now for the next 33 minutes.
+Client 25 starts changing. In total, 10 persons in changing room.
+Client 23 bought his ticket
+Client 34 leaves changing room. In total, 9 persons in changing room.
+Client 34 swimming now for the next 13 minutes.
+Client 23 starts changing. In total, 10 persons in changing room.
+Client 24 bought his ticket
+Client 33 leaves changing room. In total, 9 persons in changing room.
+Client 33 is renting a pair of swimming fins. 6 swim fins left.
+Client 33 swimming now for the next 51 minutes.
+Client 24 starts changing. In total, 10 persons in changing room.
+Client 22 bought his ticket
+Client 32 leaves changing room. In total, 9 persons in changing room.
+Client 32 swimming now for the next 16 minutes.
+Client 22 starts changing. In total, 10 persons in changing room.
+Client 21 bought his ticket
+Client 31 leaves changing room. In total, 9 persons in changing room.
+Client 31 is renting a pair of swimming fins. 4 swim fins left.
+Client 31 swimming now for the next 47 minutes.
+Client 21 starts changing. In total, 10 persons in changing room.
+Client 20 bought his ticket
+Client 30 leaves changing room. In total, 9 persons in changing room.
+Client 30 swimming now for the next 20 minutes.
+Client 20 starts changing. In total, 10 persons in changing room.
+Client 19 bought his ticket
+Client 29 leaves changing room. In total, 9 persons in changing room.
+Client 29 is renting a pair of swimming fins. 2 swim fins left.
+Client 29 swimming now for the next 30 minutes.
+Client 19 starts changing. In total, 10 persons in changing room.
+Client 18 bought his ticket
+Client 28 leaves changing room. In total, 9 persons in changing room.
+Client 28 is renting a pair of swimming fins. 0 swim fins left.
+Client 28 swimming now for the next 32 minutes.
+Client 18 starts changing. In total, 10 persons in changing room.
+Client 27 leaves changing room. In total, 9 persons in changing room.
+Client 27 waiting to get swim fins.
+Client 26 leaves changing room. In total, 8 persons in changing room.
+Client 26 swimming now for the next 49 minutes.
+Client 25 leaves changing room. In total, 7 persons in changing room.
+Client 25 waiting to get swim fins.
+Client 23 leaves changing room. In total, 6 persons in changing room.
+Client 23 waiting to get swim fins.
+Client 24 leaves changing room. In total, 5 persons in changing room.
+Client 24 swimming now for the next 33 minutes.
+Client 22 leaves changing room. In total, 4 persons in changing room.
+Client 22 waiting to get swim fins.
+Client 34 leaves pool. Swimming over.
+Client 34 starts changing. In total, 5 persons in changing room.
+Client 21 leaves changing room. In total, 4 persons in changing room.
+Client 21 waiting to get swim fins.
+Client 20 leaves changing room. In total, 3 persons in changing room.
+Client 20 waiting to get swim fins.
+Client 19 leaves changing room. In total, 2 persons in changing room.
+Client 19 swimming now for the next 16 minutes.
+Client 18 leaves changing room. In total, 1 persons in changing room.
+Client 18 swimming now for the next 8 minutes.
+Client 32 leaves pool. Swimming over.
+Client 32 starts changing. In total, 2 persons in changing room.
+Jean Luc has arrived. 'Je veux NETTOYER' 
+Client 34 leaves changing room. In total, 1 persons in changing room.
+Client 30 leaves pool. Swimming over.
+Client 30 starts changing. In total, 2 persons in changing room.
+Client 18 leaves pool. Swimming over.
+Client 18 starts changing. In total, 3 persons in changing room.
+Client 32 leaves changing room. In total, 2 persons in changing room.
+Client 19 leaves pool. Swimming over.
+Client 19 starts changing. In total, 3 persons in changing room.
+Client 17 leaves pool. Swimming over.
+Client 17 starts changing. In total, 4 persons in changing room.
+Client 30 leaves changing room. In total, 3 persons in changing room.
+Client 18 leaves changing room. In total, 2 persons in changing room.
+Client 29 leaves pool. Swimming over.
+Client 29 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 29 starts changing. In total, 3 persons in changing room.
+Client 20 is renting a pair of swimming fins. 0 swim fins left.
+Client 21 waiting to get swim fins.
+Client 22 waiting to get swim fins.
+Client 20 swimming now for the next 46 minutes.
+Client 23 waiting to get swim fins.
+Client 25 waiting to get swim fins.
+Client 27 waiting to get swim fins.
+Client 28 leaves pool. Swimming over.
+Client 28 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 28 starts changing. In total, 4 persons in changing room.
+Client 27 is renting a pair of swimming fins. 0 swim fins left.
+Client 25 waiting to get swim fins.
+Client 23 waiting to get swim fins.
+Client 27 swimming now for the next 53 minutes.
+Client 22 waiting to get swim fins.
+Client 21 waiting to get swim fins.
+Client 19 leaves changing room. In total, 3 persons in changing room.
+Client 17 leaves changing room. In total, 2 persons in changing room.
+Client 24 leaves pool. Swimming over.
+Client 24 starts changing. In total, 3 persons in changing room.
+Client 29 leaves changing room. In total, 2 persons in changing room.
+24 new customers have arrived.
+Client 35 bought his ticket
+Client 28 leaves changing room. In total, 1 persons in changing room.
+Client 35 starts changing. In total, 2 persons in changing room.
+Client 58 bought his ticket
+Client 58 starts changing. In total, 3 persons in changing room.
+Client 57 bought his ticket
+Client 31 leaves pool. Swimming over.
+Client 31 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 31 starts changing. In total, 4 persons in changing room.
+Client 21 is renting a pair of swimming fins. 0 swim fins left.
+Client 21 swimming now for the next 35 minutes.
+Client 22 waiting to get swim fins.
+Client 23 waiting to get swim fins.
+Client 25 waiting to get swim fins.
+Client 57 starts changing. In total, 5 persons in changing room.
+Client 56 bought his ticket
+Client 56 starts changing. In total, 6 persons in changing room.
+Client 55 bought his ticket
+Client 33 leaves pool. Swimming over.
+Client 33 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 33 starts changing. In total, 7 persons in changing room.
+Client 25 is renting a pair of swimming fins. 0 swim fins left.
+Client 23 waiting to get swim fins.
+Client 25 swimming now for the next 29 minutes.
+Client 22 waiting to get swim fins.
+Client 55 starts changing. In total, 8 persons in changing room.
+Client 54 bought his ticket
+Client 54 starts changing. In total, 9 persons in changing room.
+Client 53 bought his ticket
+Client 53 starts changing. In total, 10 persons in changing room.
+Client 52 bought his ticket
+Client 24 leaves changing room. In total, 9 persons in changing room.
+Client 52 starts changing. In total, 10 persons in changing room.
+Client 51 bought his ticket
+Client 51 starts changing. In total, 11 persons in changing room.
+Client 50 bought his ticket
+Client 26 leaves pool. Swimming over.
+Client 26 starts changing. In total, 12 persons in changing room.
+Client 49 bought his ticket
+Client 50 starts changing. In total, 13 persons in changing room.
+Client 35 leaves changing room. In total, 12 persons in changing room.
+Client 35 waiting to get swim fins.
+Client 49 starts changing. In total, 13 persons in changing room.
+Client 48 bought his ticket
+Client 58 leaves changing room. In total, 12 persons in changing room.
+Client 58 swimming now for the next 20 minutes.
+Client 31 leaves changing room. In total, 11 persons in changing room.
+Client 47 bought his ticket
+Client 48 starts changing. In total, 12 persons in changing room.
+Client 57 leaves changing room. In total, 11 persons in changing room.
+Client 57 waiting to get swim fins.
+Client 47 starts changing. In total, 12 persons in changing room.
+Client 46 bought his ticket
+Client 56 leaves changing room. In total, 11 persons in changing room.
+Client 56 swimming now for the next 20 minutes.
+Client 46 starts changing. In total, 12 persons in changing room.
+Client 45 bought his ticket
+Client 33 leaves changing room. In total, 11 persons in changing room.
+Client 55 leaves changing room. In total, 10 persons in changing room.
+Client 55 waiting to get swim fins.
+Client 45 starts changing. In total, 11 persons in changing room.
+Client 44 bought his ticket
+Client 54 leaves changing room. In total, 10 persons in changing room.
+Client 54 waiting to get swim fins.
+Client 44 starts changing. In total, 11 persons in changing room.
+Client 43 bought his ticket
+Client 53 leaves changing room. In total, 10 persons in changing room.
+Client 53 waiting to get swim fins.
+Client 43 starts changing. In total, 11 persons in changing room.
+Client 42 bought his ticket
+Client 52 leaves changing room. In total, 10 persons in changing room.
+Client 52 swimming now for the next 57 minutes.
+Client 42 starts changing. In total, 11 persons in changing room.
+Client 41 bought his ticket
+Client 51 leaves changing room. In total, 10 persons in changing room.
+Client 51 waiting to get swim fins.
+Client 26 leaves changing room. In total, 9 persons in changing room.
+Client 40 bought his ticket
+Client 41 starts changing. In total, 10 persons in changing room.
+Client 50 leaves changing room. In total, 9 persons in changing room.
+Client 50 waiting to get swim fins.
+Client 40 starts changing. In total, 10 persons in changing room.
+Client 39 bought his ticket
+Client 49 leaves changing room. In total, 9 persons in changing room.
+Client 49 waiting to get swim fins.
+Client 39 starts changing. In total, 10 persons in changing room.
+Client 38 bought his ticket
+Client 48 leaves changing room. In total, 9 persons in changing room.
+Client 48 waiting to get swim fins.
+Client 38 starts changing. In total, 10 persons in changing room.
+Client 36 bought his ticket
+Client 47 leaves changing room. In total, 9 persons in changing room.
+Client 47 swimming now for the next 5 minutes.
+Client 36 starts changing. In total, 10 persons in changing room.
+Client 37 bought his ticket
+Client 46 leaves changing room. In total, 9 persons in changing room.
+Client 46 waiting to get swim fins.
+Client 37 starts changing. In total, 10 persons in changing room.
+Client 45 leaves changing room. In total, 9 persons in changing room.
+Client 45 swimming now for the next 21 minutes.
+Client 44 leaves changing room. In total, 8 persons in changing room.
+Client 44 waiting to get swim fins.
+Client 43 leaves changing room. In total, 7 persons in changing room.
+Client 43 waiting to get swim fins.
+Client 42 leaves changing room. In total, 6 persons in changing room.
+Client 42 waiting to get swim fins.
+Client 47 leaves pool. Swimming over.
+Client 47 starts changing. In total, 7 persons in changing room.
+Client 41 leaves changing room. In total, 6 persons in changing room.
+Client 41 waiting to get swim fins.
+Client 40 leaves changing room. In total, 5 persons in changing room.
+Client 40 waiting to get swim fins.
+Client 39 leaves changing room. In total, 4 persons in changing room.
+Client 39 waiting to get swim fins.
+Client 38 leaves changing room. In total, 3 persons in changing room.
+Client 38 swimming now for the next 32 minutes.
+Client 58 leaves pool. Swimming over.
+Client 58 starts changing. In total, 4 persons in changing room.
+Client 36 leaves changing room. In total, 3 persons in changing room.
+Client 36 waiting to get swim fins.
+Client 25 leaves pool. Swimming over.
+Client 25 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 25 starts changing. In total, 4 persons in changing room.
+Client 36 is renting a pair of swimming fins. 0 swim fins left.
+Client 39 waiting to get swim fins.
+Client 40 waiting to get swim fins.
+Client 41 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+Client 53 waiting to get swim fins.
+Client 54 waiting to get swim fins.
+Client 55 waiting to get swim fins.
+Client 57 waiting to get swim fins.
+Client 35 waiting to get swim fins.
+Client 22 waiting to get swim fins.
+Client 23 waiting to get swim fins.
+Client 20 leaves pool. Swimming over.
+Client 20 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 23 is renting a pair of swimming fins. 0 swim fins left.
+Client 23 swimming now for the next 13 minutes.
+Client 22 waiting to get swim fins.
+Client 20 starts changing. In total, 5 persons in changing room.
+Client 35 waiting to get swim fins.
+Client 57 waiting to get swim fins.
+Client 55 waiting to get swim fins.
+Client 54 waiting to get swim fins.
+Client 53 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 41 waiting to get swim fins.
+Client 40 waiting to get swim fins.
+Client 39 waiting to get swim fins.
+Client 36 swimming now for the next 10 minutes.
+Client 37 leaves changing room. In total, 4 persons in changing room.
+Client 37 swimming now for the next 56 minutes.
+Client 56 leaves pool. Swimming over.
+Client 56 starts changing. In total, 5 persons in changing room.
+Client 21 leaves pool. Swimming over.
+Client 21 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 21 starts changing. In total, 6 persons in changing room.
+Client 39 is renting a pair of swimming fins. 0 swim fins left.
+Client 39 swimming now for the next 46 minutes.
+Client 40 waiting to get swim fins.
+Client 41 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+Client 53 waiting to get swim fins.
+Client 54 waiting to get swim fins.
+Client 55 waiting to get swim fins.
+Client 57 waiting to get swim fins.
+Client 35 waiting to get swim fins.
+Client 22 waiting to get swim fins.
+Client 47 leaves changing room. In total, 5 persons in changing room.
+Client 58 leaves changing room. In total, 4 persons in changing room.
+Client 27 leaves pool. Swimming over.
+Client 27 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 27 starts changing. In total, 5 persons in changing room.
+Client 22 is renting a pair of swimming fins. 0 swim fins left.
+Client 22 swimming now for the next 15 minutes.
+Client 35 waiting to get swim fins.
+Client 57 waiting to get swim fins.
+Client 55 waiting to get swim fins.
+Client 54 waiting to get swim fins.
+Client 53 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 41 waiting to get swim fins.
+Client 40 waiting to get swim fins.
+Client 25 leaves changing room. In total, 4 persons in changing room.
+Client 20 leaves changing room. In total, 3 persons in changing room.
+Client 56 leaves changing room. In total, 2 persons in changing room.
+Client 36 leaves pool. Swimming over.
+Client 36 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 36 starts changing. In total, 3 persons in changing room.
+Client 40 is renting a pair of swimming fins. 0 swim fins left.
+Client 41 waiting to get swim fins.
+Client 40 swimming now for the next 23 minutes.
+Client 42 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+Client 53 waiting to get swim fins.
+Client 54 waiting to get swim fins.
+Client 55 waiting to get swim fins.
+Client 57 waiting to get swim fins.
+Client 35 waiting to get swim fins.
+Client 45 leaves pool. Swimming over.
+Client 45 starts changing. In total, 4 persons in changing room.
+Client 21 leaves changing room. In total, 3 persons in changing room.
+Client 23 leaves pool. Swimming over.
+Client 23 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 23 starts changing. In total, 4 persons in changing room.
+Client 35 is renting a pair of swimming fins. 0 swim fins left.
+Client 57 waiting to get swim fins.
+Client 35 swimming now for the next 59 minutes.
+Client 55 waiting to get swim fins.
+Client 54 waiting to get swim fins.
+Client 53 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 41 waiting to get swim fins.
+Client 27 leaves changing room. In total, 3 persons in changing room.
+Client 36 leaves changing room. In total, 2 persons in changing room.
+Client 45 leaves changing room. In total, 1 persons in changing room.
+Client 23 leaves changing room. In total, 0 persons in changing room.
+Client 22 leaves pool. Swimming over.
+Client 22 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 22 starts changing. In total, 1 persons in changing room.
+Client 41 is renting a pair of swimming fins. 0 swim fins left.
+Client 41 swimming now for the next 39 minutes.
+Client 42 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+Client 53 waiting to get swim fins.
+Client 54 waiting to get swim fins.
+Client 55 waiting to get swim fins.
+Client 57 waiting to get swim fins.
+9 new customers have arrived.
+Client 60 bought his ticket
+Client 60 starts changing. In total, 2 persons in changing room.
+Client 66 bought his ticket
+Client 66 starts changing. In total, 3 persons in changing room.
+Client 67 bought his ticket
+Client 65 bought his ticket
+Client 67 starts changing. In total, 4 persons in changing room.
+Client 65 starts changing. In total, 5 persons in changing room.
+Client 64 bought his ticket
+Client 64 starts changing. In total, 6 persons in changing room.
+Client 63 bought his ticket
+Client 38 leaves pool. Swimming over.
+Client 38 starts changing. In total, 7 persons in changing room.
+Client 63 starts changing. In total, 8 persons in changing room.
+Client 59 bought his ticket
+Client 59 starts changing. In total, 9 persons in changing room.
+Client 62 bought his ticket
+Client 40 leaves pool. Swimming over.
+Client 40 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 40 starts changing. In total, 10 persons in changing room.
+Client 57 is renting a pair of swimming fins. 0 swim fins left.
+Client 55 waiting to get swim fins.
+Client 57 swimming now for the next 37 minutes.
+Client 54 waiting to get swim fins.
+Client 53 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 62 starts changing. In total, 11 persons in changing room.
+Client 61 bought his ticket
+Client 22 leaves changing room. In total, 10 persons in changing room.
+Client 61 starts changing. In total, 11 persons in changing room.
+Client 60 leaves changing room. In total, 10 persons in changing room.
+Client 60 waiting to get swim fins.
+Client 66 leaves changing room. In total, 9 persons in changing room.
+Client 66 waiting to get swim fins.
+Client 67 leaves changing room. In total, 8 persons in changing room.
+Client 67 swimming now for the next 22 minutes.
+Client 65 leaves changing room. In total, 7 persons in changing room.
+Client 65 waiting to get swim fins.
+Client 52 leaves pool. Swimming over.
+Client 52 starts changing. In total, 8 persons in changing room.
+Client 38 leaves changing room. In total, 7 persons in changing room.
+Client 64 leaves changing room. In total, 6 persons in changing room.
+Client 64 waiting to get swim fins.
+Client 63 leaves changing room. In total, 5 persons in changing room.
+Client 63 swimming now for the next 55 minutes.
+Client 59 leaves changing room. In total, 4 persons in changing room.
+Client 59 swimming now for the next 7 minutes.
+Client 40 leaves changing room. In total, 3 persons in changing room.
+Client 62 leaves changing room. In total, 2 persons in changing room.
+Client 62 waiting to get swim fins.
+Client 61 leaves changing room. In total, 1 persons in changing room.
+Client 61 waiting to get swim fins.
+Client 39 leaves pool. Swimming over.
+Client 39 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 39 starts changing. In total, 2 persons in changing room.
+Client 61 is renting a pair of swimming fins. 0 swim fins left.
+Client 61 swimming now for the next 58 minutes.
+Client 62 waiting to get swim fins.
+Client 64 waiting to get swim fins.
+Client 65 waiting to get swim fins.
+Client 66 waiting to get swim fins.
+Client 60 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+Client 53 waiting to get swim fins.
+Client 54 waiting to get swim fins.
+Client 55 waiting to get swim fins.
+Client 59 leaves pool. Swimming over.
+Client 59 starts changing. In total, 3 persons in changing room.
+Client 52 leaves changing room. In total, 2 persons in changing room.
+Client 37 leaves pool. Swimming over.
+Client 37 starts changing. In total, 3 persons in changing room.
+Client 39 leaves changing room. In total, 2 persons in changing room.
+Client 59 leaves changing room. In total, 1 persons in changing room.
+Client 67 leaves pool. Swimming over.
+Client 67 starts changing. In total, 2 persons in changing room.
+Client 41 leaves pool. Swimming over.
+Client 41 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 41 starts changing. In total, 3 persons in changing room.
+Client 55 is renting a pair of swimming fins. 0 swim fins left.
+Client 54 waiting to get swim fins.
+Client 55 swimming now for the next 19 minutes.
+Client 53 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 60 waiting to get swim fins.
+Client 66 waiting to get swim fins.
+Client 65 waiting to get swim fins.
+Client 64 waiting to get swim fins.
+Client 62 waiting to get swim fins.
+Client 37 leaves changing room. In total, 2 persons in changing room.
+Client 57 leaves pool. Swimming over.
+Client 57 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 57 starts changing. In total, 3 persons in changing room.
+Client 62 is renting a pair of swimming fins. 0 swim fins left.
+Client 62 swimming now for the next 1 minutes.
+Client 64 waiting to get swim fins.
+Client 65 waiting to get swim fins.
+Client 66 waiting to get swim fins.
+Client 60 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+Client 53 waiting to get swim fins.
+Client 54 waiting to get swim fins.
+Client 67 leaves changing room. In total, 2 persons in changing room.
+Client 35 leaves pool. Swimming over.
+Client 35 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 35 starts changing. In total, 3 persons in changing room.
+Client 54 is renting a pair of swimming fins. 0 swim fins left.
+Client 53 waiting to get swim fins.
+Client 54 swimming now for the next 3 minutes.
+Client 51 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 60 waiting to get swim fins.
+Client 66 waiting to get swim fins.
+Client 65 waiting to get swim fins.
+Client 64 waiting to get swim fins.
+Client 62 leaves pool. Swimming over.
+Client 62 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 62 starts changing. In total, 4 persons in changing room.
+Client 64 is renting a pair of swimming fins. 0 swim fins left.
+Client 64 swimming now for the next 46 minutes.
+Client 65 waiting to get swim fins.
+Client 66 waiting to get swim fins.
+Client 60 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+Client 53 waiting to get swim fins.
+Client 41 leaves changing room. In total, 3 persons in changing room.
+Client 54 leaves pool. Swimming over.
+Client 54 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 54 starts changing. In total, 4 persons in changing room.
+Client 53 is renting a pair of swimming fins. 0 swim fins left.
+Client 53 swimming now for the next 36 minutes.
+Client 51 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 60 waiting to get swim fins.
+Client 66 waiting to get swim fins.
+Client 65 waiting to get swim fins.
+Client 57 leaves changing room. In total, 3 persons in changing room.
+Client 35 leaves changing room. In total, 2 persons in changing room.
+Client 62 leaves changing room. In total, 1 persons in changing room.
+Client 55 leaves pool. Swimming over.
+Client 55 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 55 starts changing. In total, 2 persons in changing room.
+Client 65 is renting a pair of swimming fins. 0 swim fins left.
+Client 66 waiting to get swim fins.
+Client 65 swimming now for the next 8 minutes.
+Client 60 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 51 waiting to get swim fins.
+4 new customers have arrived.
+Client 68 bought his ticket
+Client 54 leaves changing room. In total, 1 persons in changing room.
+Client 68 starts changing. In total, 2 persons in changing room.
+Client 71 bought his ticket
+Client 71 starts changing. In total, 3 persons in changing room.
+Client 70 bought his ticket
+Client 70 starts changing. In total, 4 persons in changing room.
+Client 69 bought his ticket
+Client 69 starts changing. In total, 5 persons in changing room.
+Client 65 leaves pool. Swimming over.
+Client 65 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 65 starts changing. In total, 6 persons in changing room.
+Client 51 is renting a pair of swimming fins. 0 swim fins left.
+Client 50 waiting to get swim fins.
+Client 51 swimming now for the next 48 minutes.
+Client 49 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 60 waiting to get swim fins.
+Client 66 waiting to get swim fins.
+Client 55 leaves changing room. In total, 5 persons in changing room.
+Client 68 leaves changing room. In total, 4 persons in changing room.
+Client 68 waiting to get swim fins.
+Client 63 leaves pool. Swimming over.
+Client 63 starts changing. In total, 5 persons in changing room.
+Client 71 leaves changing room. In total, 4 persons in changing room.
+Client 71 waiting to get swim fins.
+Client 70 leaves changing room. In total, 3 persons in changing room.
+Client 70 swimming now for the next 55 minutes.
+Client 69 leaves changing room. In total, 2 persons in changing room.
+Client 69 swimming now for the next 52 minutes.
+Client 65 leaves changing room. In total, 1 persons in changing room.
+Client 63 leaves changing room. In total, 0 persons in changing room.
+Client 61 leaves pool. Swimming over.
+Client 61 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 71 is renting a pair of swimming fins. 0 swim fins left.
+Client 61 starts changing. In total, 1 persons in changing room.
+Client 68 waiting to get swim fins.
+Client 71 swimming now for the next 11 minutes.
+Client 66 waiting to get swim fins.
+Client 60 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 50 waiting to get swim fins.
+Client 53 leaves pool. Swimming over.
+Client 53 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 53 starts changing. In total, 2 persons in changing room.
+Client 50 is renting a pair of swimming fins. 0 swim fins left.
+Client 50 swimming now for the next 57 minutes.
+Client 49 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 60 waiting to get swim fins.
+Client 66 waiting to get swim fins.
+Client 68 waiting to get swim fins.
+Client 61 leaves changing room. In total, 1 persons in changing room.
+Client 64 leaves pool. Swimming over.
+Client 64 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 64 starts changing. In total, 2 persons in changing room.
+Client 68 is renting a pair of swimming fins. 0 swim fins left.
+Client 66 waiting to get swim fins.
+Client 68 swimming now for the next 44 minutes.
+Client 60 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 49 waiting to get swim fins.
+Client 71 leaves pool. Swimming over.
+Client 71 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 71 starts changing. In total, 3 persons in changing room.
+Client 49 is renting a pair of swimming fins. 0 swim fins left.
+Client 49 swimming now for the next 13 minutes.
+Client 48 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 60 waiting to get swim fins.
+Client 66 waiting to get swim fins.
+Client 53 leaves changing room. In total, 2 persons in changing room.
+Client 64 leaves changing room. In total, 1 persons in changing room.
+Client 71 leaves changing room. In total, 0 persons in changing room.
+Client 49 leaves pool. Swimming over.
+Client 49 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 49 starts changing. In total, 1 persons in changing room.
+Client 66 is renting a pair of swimming fins. 0 swim fins left.
+Client 60 waiting to get swim fins.
+Client 66 swimming now for the next 8 minutes.
+Client 42 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 48 waiting to get swim fins.
+Client 51 leaves pool. Swimming over.
+Client 51 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 51 starts changing. In total, 2 persons in changing room.
+Client 48 is renting a pair of swimming fins. 0 swim fins left.
+Client 48 swimming now for the next 29 minutes.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 60 waiting to get swim fins.
+Client 66 leaves pool. Swimming over.
+Client 66 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 66 starts changing. In total, 3 persons in changing room.
+Client 60 is renting a pair of swimming fins. 0 swim fins left.
+Client 60 swimming now for the next 28 minutes.
+Client 42 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 49 leaves changing room. In total, 2 persons in changing room.
+12 new customers have arrived.
+Client 74 bought his ticket
+Client 83 bought his ticket
+Client 74 starts changing. In total, 3 persons in changing room.
+Client 83 starts changing. In total, 4 persons in changing room.
+Client 82 bought his ticket
+Client 82 starts changing. In total, 5 persons in changing room.
+Client 81 bought his ticket
+Client 81 starts changing. In total, 6 persons in changing room.
+Client 80 bought his ticket
+Client 51 leaves changing room. In total, 5 persons in changing room.
+Client 80 starts changing. In total, 6 persons in changing room.
+Client 79 bought his ticket
+Client 66 leaves changing room. In total, 5 persons in changing room.
+Client 79 starts changing. In total, 6 persons in changing room.
+Client 78 bought his ticket
+Client 69 leaves pool. Swimming over.
+Client 69 starts changing. In total, 7 persons in changing room.
+Client 78 starts changing. In total, 8 persons in changing room.
+Client 77 bought his ticket
+Client 77 starts changing. In total, 9 persons in changing room.
+Client 73 bought his ticket
+Client 70 leaves pool. Swimming over.
+Client 70 starts changing. In total, 10 persons in changing room.
+Client 73 starts changing. In total, 11 persons in changing room.
+Client 72 bought his ticket
+Client 72 starts changing. In total, 12 persons in changing room.
+Client 76 bought his ticket
+Client 74 leaves changing room. In total, 11 persons in changing room.
+Client 74 waiting to get swim fins.
+Client 76 starts changing. In total, 12 persons in changing room.
+Client 75 bought his ticket
+Client 83 leaves changing room. In total, 11 persons in changing room.
+Client 83 waiting to get swim fins.
+Client 75 starts changing. In total, 12 persons in changing room.
+Client 82 leaves changing room. In total, 11 persons in changing room.
+Client 82 swimming now for the next 41 minutes.
+Client 81 leaves changing room. In total, 10 persons in changing room.
+Client 81 waiting to get swim fins.
+Client 80 leaves changing room. In total, 9 persons in changing room.
+Client 80 waiting to get swim fins.
+Client 79 leaves changing room. In total, 8 persons in changing room.
+Client 79 swimming now for the next 3 minutes.
+Client 69 leaves changing room. In total, 7 persons in changing room.
+Client 78 leaves changing room. In total, 6 persons in changing room.
+Client 78 waiting to get swim fins.
+Client 68 leaves pool. Swimming over.
+Client 68 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 68 starts changing. In total, 7 persons in changing room.
+Client 78 is renting a pair of swimming fins. 0 swim fins left.
+Client 78 swimming now for the next 48 minutes.
+Client 80 waiting to get swim fins.
+Client 81 waiting to get swim fins.
+Client 83 waiting to get swim fins.
+Client 74 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 42 waiting to get swim fins.
+Client 77 leaves changing room. In total, 6 persons in changing room.
+Client 77 swimming now for the next 41 minutes.
+Client 70 leaves changing room. In total, 5 persons in changing room.
+Client 73 leaves changing room. In total, 4 persons in changing room.
+Client 73 swimming now for the next 9 minutes.
+Client 79 leaves pool. Swimming over.
+Client 79 starts changing. In total, 5 persons in changing room.
+Client 72 leaves changing room. In total, 4 persons in changing room.
+Client 72 swimming now for the next 38 minutes.
+Client 76 leaves changing room. In total, 3 persons in changing room.
+Client 76 swimming now for the next 1 minutes.
+Client 75 leaves changing room. In total, 2 persons in changing room.
+Client 75 swimming now for the next 12 minutes.
+Client 76 leaves pool. Swimming over.
+Client 76 starts changing. In total, 3 persons in changing room.
+Client 60 leaves pool. Swimming over.
+Client 60 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 60 starts changing. In total, 4 persons in changing room.
+Client 42 is renting a pair of swimming fins. 0 swim fins left.
+Client 43 waiting to get swim fins.
+Client 42 swimming now for the next 9 minutes.
+Client 44 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 74 waiting to get swim fins.
+Client 83 waiting to get swim fins.
+Client 81 waiting to get swim fins.
+Client 80 waiting to get swim fins.
+Client 48 leaves pool. Swimming over.
+Client 48 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 80 is renting a pair of swimming fins. 0 swim fins left.
+Client 48 starts changing. In total, 5 persons in changing room.
+Client 81 waiting to get swim fins.
+Client 50 leaves pool. Swimming over.
+Client 83 waiting to get swim fins.
+Client 74 waiting to get swim fins.
+Client 80 swimming now for the next 52 minutes.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 43 waiting to get swim fins.
+Client 50 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 50 starts changing. In total, 6 persons in changing room.
+Client 43 is renting a pair of swimming fins. 0 swim fins left.
+Client 44 waiting to get swim fins.
+Client 43 swimming now for the next 27 minutes.
+Client 46 waiting to get swim fins.
+Client 74 waiting to get swim fins.
+Client 83 waiting to get swim fins.
+Client 81 waiting to get swim fins.
+Client 68 leaves changing room. In total, 5 persons in changing room.
+Client 73 leaves pool. Swimming over.
+Client 73 starts changing. In total, 6 persons in changing room.
+Client 79 leaves changing room. In total, 5 persons in changing room.
+Client 76 leaves changing room. In total, 4 persons in changing room.
+Client 42 leaves pool. Swimming over.
+Client 42 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 42 starts changing. In total, 5 persons in changing room.
+Client 81 is renting a pair of swimming fins. 0 swim fins left.
+Client 81 swimming now for the next 42 minutes.
+Client 83 waiting to get swim fins.
+Client 74 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 44 waiting to get swim fins.
+Client 60 leaves changing room. In total, 4 persons in changing room.
+Client 50 leaves changing room. In total, 3 persons in changing room.
+Client 48 leaves changing room. In total, 2 persons in changing room.
+Client 75 leaves pool. Swimming over.
+Client 75 starts changing. In total, 3 persons in changing room.
+Client 73 leaves changing room. In total, 2 persons in changing room.
+Client 42 leaves changing room. In total, 1 persons in changing room.
+Client 75 leaves changing room. In total, 0 persons in changing room.
+Client 43 leaves pool. Swimming over.
+Client 43 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 43 starts changing. In total, 1 persons in changing room.
+Client 44 is renting a pair of swimming fins. 0 swim fins left.
+Client 44 swimming now for the next 34 minutes.
+Client 46 waiting to get swim fins.
+Client 74 waiting to get swim fins.
+Client 83 waiting to get swim fins.
+Client 82 leaves pool. Swimming over.
+Client 82 starts changing. In total, 2 persons in changing room.
+Client 72 leaves pool. Swimming over.
+Client 72 starts changing. In total, 3 persons in changing room.
+13 new customers have arrived.
+Client 84 bought his ticket
+Client 77 leaves pool. Swimming over.
+Client 77 starts changing. In total, 4 persons in changing room.
+Client 96 bought his ticket
+Client 84 starts changing. In total, 5 persons in changing room.
+Client 96 starts changing. In total, 6 persons in changing room.
+Client 94 bought his ticket
+Client 43 leaves changing room. In total, 5 persons in changing room.
+Client 94 starts changing. In total, 6 persons in changing room.
+Client 95 bought his ticket
+Client 95 starts changing. In total, 7 persons in changing room.
+Client 93 bought his ticket
+Client 82 leaves changing room. In total, 6 persons in changing room.
+Client 93 starts changing. In total, 7 persons in changing room.
+Client 92 bought his ticket
+Client 92 starts changing. In total, 8 persons in changing room.
+Client 91 bought his ticket
+Client 78 leaves pool. Swimming over.
+Client 78 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 78 starts changing. In total, 9 persons in changing room.
+Client 83 is renting a pair of swimming fins. 0 swim fins left.
+Client 74 waiting to get swim fins.
+Client 83 swimming now for the next 54 minutes.
+Client 46 waiting to get swim fins.
+Client 91 starts changing. In total, 10 persons in changing room.
+Client 90 bought his ticket
+Client 90 starts changing. In total, 11 persons in changing room.
+Client 89 bought his ticket
+Client 72 leaves changing room. In total, 10 persons in changing room.
+Client 85 bought his ticket
+Client 89 starts changing. In total, 11 persons in changing room.
+Client 77 leaves changing room. In total, 10 persons in changing room.
+Client 85 starts changing. In total, 11 persons in changing room.
+Client 87 bought his ticket
+Client 84 leaves changing room. In total, 10 persons in changing room.
+Client 84 waiting to get swim fins.
+Client 87 starts changing. In total, 11 persons in changing room.
+Client 88 bought his ticket
+Client 96 leaves changing room. In total, 10 persons in changing room.
+Client 96 swimming now for the next 27 minutes.
+Client 88 starts changing. In total, 11 persons in changing room.
+Client 86 bought his ticket
+Client 94 leaves changing room. In total, 10 persons in changing room.
+Client 94 waiting to get swim fins.
+Client 86 starts changing. In total, 11 persons in changing room.
+Client 95 leaves changing room. In total, 10 persons in changing room.
+Client 95 swimming now for the next 2 minutes.
+Client 93 leaves changing room. In total, 9 persons in changing room.
+Client 93 swimming now for the next 48 minutes.
+Client 81 leaves pool. Swimming over.
+Client 81 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 81 starts changing. In total, 10 persons in changing room.
+Client 94 is renting a pair of swimming fins. 0 swim fins left.
+Client 94 swimming now for the next 21 minutes.
+Client 84 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 74 waiting to get swim fins.
+Client 92 leaves changing room. In total, 9 persons in changing room.
+Client 92 swimming now for the next 31 minutes.
+Client 95 leaves pool. Swimming over.
+Client 95 starts changing. In total, 10 persons in changing room.
+Client 78 leaves changing room. In total, 9 persons in changing room.
+Client 80 leaves pool. Swimming over.
+Client 80 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 80 starts changing. In total, 10 persons in changing room.
+Client 74 is renting a pair of swimming fins. 0 swim fins left.
+Client 74 swimming now for the next 6 minutes.
+Client 46 waiting to get swim fins.
+Client 84 waiting to get swim fins.
+Client 91 leaves changing room. In total, 9 persons in changing room.
+Client 91 swimming now for the next 11 minutes.
+Client 90 leaves changing room. In total, 8 persons in changing room.
+Client 90 waiting to get swim fins.
+Client 89 leaves changing room. In total, 7 persons in changing room.
+Client 89 waiting to get swim fins.
+Client 85 leaves changing room. In total, 6 persons in changing room.
+Client 85 swimming now for the next 19 minutes.
+Client 87 leaves changing room. In total, 5 persons in changing room.
+Client 87 swimming now for the next 17 minutes.
+Client 88 leaves changing room. In total, 4 persons in changing room.
+Client 88 swimming now for the next 26 minutes.
+Client 86 leaves changing room. In total, 3 persons in changing room.
+Client 86 waiting to get swim fins.
+Client 74 leaves pool. Swimming over.
+Client 74 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 74 starts changing. In total, 4 persons in changing room.
+Client 86 is renting a pair of swimming fins. 0 swim fins left.
+Client 86 swimming now for the next 4 minutes.
+Client 89 waiting to get swim fins.
+Client 90 waiting to get swim fins.
+Client 84 waiting to get swim fins.
+Client 46 waiting to get swim fins.
+Client 81 leaves changing room. In total, 3 persons in changing room.
+Client 95 leaves changing room. In total, 2 persons in changing room.
+Client 44 leaves pool. Swimming over.
+Client 44 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 44 starts changing. In total, 3 persons in changing room.
+Client 46 is renting a pair of swimming fins. 0 swim fins left.
+Client 46 swimming now for the next 46 minutes.
+Client 84 waiting to get swim fins.
+Client 90 waiting to get swim fins.
+Client 89 waiting to get swim fins.
+Client 80 leaves changing room. In total, 2 persons in changing room.
+Client 86 leaves pool. Swimming over.
+Client 86 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 86 starts changing. In total, 3 persons in changing room.
+Client 89 is renting a pair of swimming fins. 0 swim fins left.
+Client 90 waiting to get swim fins.
+Client 89 swimming now for the next 52 minutes.
+Client 84 waiting to get swim fins.
+Client 91 leaves pool. Swimming over.
+Client 91 starts changing. In total, 4 persons in changing room.
+Client 74 leaves changing room. In total, 3 persons in changing room.
+Client 44 leaves changing room. In total, 2 persons in changing room.
+Client 94 leaves pool. Swimming over.
+Client 94 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 94 starts changing. In total, 3 persons in changing room.
+Client 84 is renting a pair of swimming fins. 0 swim fins left.
+Client 90 waiting to get swim fins.
+Client 84 swimming now for the next 50 minutes.
+Client 86 leaves changing room. In total, 2 persons in changing room.
+Client 91 leaves changing room. In total, 1 persons in changing room.
+Client 87 leaves pool. Swimming over.
+Client 87 starts changing. In total, 2 persons in changing room.
+Client 85 leaves pool. Swimming over.
+Client 85 starts changing. In total, 3 persons in changing room.
+Client 96 leaves pool. Swimming over.
+Client 96 starts changing. In total, 4 persons in changing room.
+Client 92 leaves pool. Swimming over.
+Client 92 starts changing. In total, 5 persons in changing room.
+Client 94 leaves changing room. In total, 4 persons in changing room.
+Client 88 leaves pool. Swimming over.
+Client 88 starts changing. In total, 5 persons in changing room.
+Client 87 leaves changing room. In total, 4 persons in changing room.
+Client 85 leaves changing room. In total, 3 persons in changing room.
+Client 96 leaves changing room. In total, 2 persons in changing room.
+Client 92 leaves changing room. In total, 1 persons in changing room.
+Client 88 leaves changing room. In total, 0 persons in changing room.
+20 new customers have arrived.
+Client 98 bought his ticket
+Client 98 starts changing. In total, 1 persons in changing room.
+Client 115 bought his ticket
+Client 83 leaves pool. Swimming over.
+Client 83 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 83 starts changing. In total, 2 persons in changing room.
+Client 90 is renting a pair of swimming fins. 0 swim fins left.
+Client 90 swimming now for the next 38 minutes.
+Client 115 starts changing. In total, 3 persons in changing room.
+Client 116 bought his ticket
+Client 116 starts changing. In total, 4 persons in changing room.
+Client 114 bought his ticket
+Client 93 leaves pool. Swimming over.
+Client 93 starts changing. In total, 5 persons in changing room.
+Client 114 starts changing. In total, 6 persons in changing room.
+Client 113 bought his ticket
+Client 113 starts changing. In total, 7 persons in changing room.
+Client 112 bought his ticket
+Client 112 starts changing. In total, 8 persons in changing room.
+Client 111 bought his ticket
+Client 111 starts changing. In total, 9 persons in changing room.
+Client 110 bought his ticket
+Client 110 starts changing. In total, 10 persons in changing room.
+Client 109 bought his ticket
+Client 109 starts changing. In total, 11 persons in changing room.
+Client 108 bought his ticket
+Client 108 starts changing. In total, 12 persons in changing room.
+Client 107 bought his ticket
+Client 98 leaves changing room. In total, 11 persons in changing room.
+Client 98 swimming now for the next 40 minutes.
+Client 107 starts changing. In total, 12 persons in changing room.
+Client 106 bought his ticket
+Client 83 leaves changing room. In total, 11 persons in changing room.
+Client 115 leaves changing room. In total, 10 persons in changing room.
+Client 115 swimming now for the next 29 minutes.
+Client 106 starts changing. In total, 11 persons in changing room.
+Client 103 bought his ticket
+Client 46 leaves pool. Swimming over.
+Client 46 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 46 starts changing. In total, 12 persons in changing room.
+Client 116 leaves changing room. In total, 11 persons in changing room.
+Client 116 is renting a pair of swimming fins. 0 swim fins left.
+Client 116 swimming now for the next 18 minutes.
+Client 105 bought his ticket
+Client 103 starts changing. In total, 12 persons in changing room.
+Client 93 leaves changing room. In total, 11 persons in changing room.
+Client 114 leaves changing room. In total, 10 persons in changing room.
+Client 114 swimming now for the next 24 minutes.
+Client 105 starts changing. In total, 11 persons in changing room.
+Client 104 bought his ticket
+Client 113 leaves changing room. In total, 10 persons in changing room.
+Client 113 swimming now for the next 48 minutes.
+Client 104 starts changing. In total, 11 persons in changing room.
+Client 97 bought his ticket
+Client 112 leaves changing room. In total, 10 persons in changing room.
+Client 112 swimming now for the next 5 minutes.
+Client 97 starts changing. In total, 11 persons in changing room.
+Client 102 bought his ticket
+Client 111 leaves changing room. In total, 10 persons in changing room.
+Client 111 swimming now for the next 4 minutes.
+Client 101 bought his ticket
+Client 102 starts changing. In total, 11 persons in changing room.
+Client 110 leaves changing room. In total, 10 persons in changing room.
+Client 110 swimming now for the next 59 minutes.
+Client 101 starts changing. In total, 11 persons in changing room.
+Client 100 bought his ticket
+Client 109 leaves changing room. In total, 10 persons in changing room.
+Client 109 waiting to get swim fins.
+Client 100 starts changing. In total, 11 persons in changing room.
+Client 99 bought his ticket
+Client 89 leaves pool. Swimming over.
+Client 89 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 89 starts changing. In total, 12 persons in changing room.
+Client 109 is renting a pair of swimming fins. 0 swim fins left.
+Client 109 swimming now for the next 33 minutes.
+Client 108 leaves changing room. In total, 11 persons in changing room.
+Client 108 swimming now for the next 0 minutes.
+Client 99 starts changing. In total, 12 persons in changing room.
+Client 108 leaves pool. Swimming over.
+Client 108 starts changing. In total, 13 persons in changing room.
+Client 107 leaves changing room. In total, 12 persons in changing room.
+Client 107 waiting to get swim fins.
+Client 111 leaves pool. Swimming over.
+Client 111 starts changing. In total, 13 persons in changing room.
+Client 112 leaves pool. Swimming over.
+Client 112 starts changing. In total, 14 persons in changing room.
+Client 106 leaves changing room. In total, 13 persons in changing room.
+Client 106 swimming now for the next 42 minutes.
+Client 46 leaves changing room. In total, 12 persons in changing room.
+Client 103 leaves changing room. In total, 11 persons in changing room.
+Client 103 swimming now for the next 57 minutes.
+Client 105 leaves changing room. In total, 10 persons in changing room.
+Client 105 waiting to get swim fins.
+Client 104 leaves changing room. In total, 9 persons in changing room.
+Client 104 swimming now for the next 56 minutes.
+Client 97 leaves changing room. In total, 8 persons in changing room.
+Client 97 swimming now for the next 19 minutes.
+Client 102 leaves changing room. In total, 7 persons in changing room.
+Client 102 waiting to get swim fins.
+Client 84 leaves pool. Swimming over.
+Client 84 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 84 starts changing. In total, 8 persons in changing room.
+Client 102 is renting a pair of swimming fins. 0 swim fins left.
+Client 102 swimming now for the next 35 minutes.
+Client 105 waiting to get swim fins.
+Client 107 waiting to get swim fins.
+Client 101 leaves changing room. In total, 7 persons in changing room.
+Client 101 swimming now for the next 48 minutes.
+Client 100 leaves changing room. In total, 6 persons in changing room.
+Client 100 waiting to get swim fins.
+Client 89 leaves changing room. In total, 5 persons in changing room.
+Client 99 leaves changing room. In total, 4 persons in changing room.
+Client 99 waiting to get swim fins.
+Client 108 leaves changing room. In total, 3 persons in changing room.
+Client 111 leaves changing room. In total, 2 persons in changing room.
+Client 116 leaves pool. Swimming over.
+Client 112 leaves changing room. In total, 1 persons in changing room.
+Client 116 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 116 starts changing. In total, 2 persons in changing room.
+Client 99 is renting a pair of swimming fins. 0 swim fins left.
+Client 100 waiting to get swim fins.
+Client 99 swimming now for the next 34 minutes.
+Client 107 waiting to get swim fins.
+Client 105 waiting to get swim fins.
+Client 84 leaves changing room. In total, 1 persons in changing room.
+Client 114 leaves pool. Swimming over.
+Client 114 starts changing. In total, 2 persons in changing room.
+Client 90 leaves pool. Swimming over.
+Client 90 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 90 starts changing. In total, 3 persons in changing room.
+Client 105 is renting a pair of swimming fins. 0 swim fins left.
+Client 107 waiting to get swim fins.
+Client 105 swimming now for the next 39 minutes.
+Client 100 waiting to get swim fins.
+Client 115 leaves pool. Swimming over.
+Client 115 starts changing. In total, 4 persons in changing room.
+Client 116 leaves changing room. In total, 3 persons in changing room.
+Client 97 leaves pool. Swimming over.
+Client 97 starts changing. In total, 4 persons in changing room.
+Client 114 leaves changing room. In total, 3 persons in changing room.
+Client 90 leaves changing room. In total, 2 persons in changing room.
+Client 115 leaves changing room. In total, 1 persons in changing room.
+Client 98 leaves pool. Swimming over.
+Client 98 starts changing. In total, 2 persons in changing room.
+Client 109 leaves pool. Swimming over.
+Client 109 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 100 is renting a pair of swimming fins. 0 swim fins left.
+Client 107 waiting to get swim fins.
+Client 109 starts changing. In total, 3 persons in changing room.
+Client 100 swimming now for the next 25 minutes.
+Client 97 leaves changing room. In total, 2 persons in changing room.
+28 new customers have arrived.
+Client 117 bought his ticket
+Client 117 starts changing. In total, 3 persons in changing room.
+Client 143 bought his ticket
+Client 98 leaves changing room. In total, 2 persons in changing room.
+Client 144 bought his ticket
+Client 143 starts changing. In total, 3 persons in changing room.
+Client 144 starts changing. In total, 4 persons in changing room.
+Client 142 bought his ticket
+Client 102 leaves pool. Swimming over.
+Client 102 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 102 starts changing. In total, 5 persons in changing room.
+Client 107 is renting a pair of swimming fins. 0 swim fins left.
+Client 107 swimming now for the next 0 minutes.
+Client 107 leaves pool. Swimming over.
+Client 107 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 107 starts changing. In total, 6 persons in changing room.
+Client 113 leaves pool. Swimming over.
+Client 113 starts changing. In total, 7 persons in changing room.
+Client 109 leaves changing room. In total, 6 persons in changing room.
+Client 142 starts changing. In total, 7 persons in changing room.
+Client 140 bought his ticket
+Client 106 leaves pool. Swimming over.
+Client 106 starts changing. In total, 8 persons in changing room.
+Client 140 starts changing. In total, 9 persons in changing room.
+Client 141 bought his ticket
+Client 141 starts changing. In total, 10 persons in changing room.
+Client 139 bought his ticket
+Client 99 leaves pool. Swimming over.
+Client 99 is returning the borrowed swimming fins. 4 swim finds are still available
+Client 99 starts changing. In total, 11 persons in changing room.
+Client 139 starts changing. In total, 12 persons in changing room.
+Client 138 bought his ticket
+Client 138 starts changing. In total, 13 persons in changing room.
+Client 136 bought his ticket
+Client 136 starts changing. In total, 14 persons in changing room.
+Client 137 bought his ticket
+Client 137 starts changing. In total, 15 persons in changing room.
+Client 135 bought his ticket
+Client 117 leaves changing room. In total, 14 persons in changing room.
+Client 117 is renting a pair of swimming fins. 2 swim fins left.
+Client 117 swimming now for the next 36 minutes.
+Client 135 starts changing. In total, 15 persons in changing room.
+Client 134 bought his ticket
+Client 143 leaves changing room. In total, 14 persons in changing room.
+Client 143 is renting a pair of swimming fins. 0 swim fins left.
+Client 143 swimming now for the next 43 minutes.
+Client 134 starts changing. In total, 15 persons in changing room.
+Client 132 bought his ticket
+Client 144 leaves changing room. In total, 14 persons in changing room.
+Client 144 waiting to get swim fins.
+Client 102 leaves changing room. In total, 13 persons in changing room.
+Client 133 bought his ticket
+Client 132 starts changing. In total, 14 persons in changing room.
+Client 107 leaves changing room. In total, 13 persons in changing room.
+Client 113 leaves changing room. In total, 12 persons in changing room.
+Client 142 leaves changing room. In total, 11 persons in changing room.
+Client 142 swimming now for the next 2 minutes.
+Client 133 starts changing. In total, 12 persons in changing room.
+Client 125 bought his ticket
+Client 106 leaves changing room. In total, 11 persons in changing room.
+Client 140 leaves changing room. In total, 10 persons in changing room.
+Client 140 swimming now for the next 43 minutes.
+Client 125 starts changing. In total, 11 persons in changing room.
+Client 131 bought his ticket
+Client 141 leaves changing room. In total, 10 persons in changing room.
+Client 141 swimming now for the next 31 minutes.
+Client 131 starts changing. In total, 11 persons in changing room.
+Client 130 bought his ticket
+Client 99 leaves changing room. In total, 10 persons in changing room.
+Client 142 leaves pool. Swimming over.
+Client 142 starts changing. In total, 11 persons in changing room.
+Client 110 leaves pool. Swimming over.
+Client 110 starts changing. In total, 12 persons in changing room.
+Client 101 leaves pool. Swimming over.
+Client 101 starts changing. In total, 13 persons in changing room.
+Client 139 leaves changing room. In total, 12 persons in changing room.
+Client 139 swimming now for the next 37 minutes.
+Client 130 starts changing. In total, 13 persons in changing room.
+Client 129 bought his ticket
+Client 138 leaves changing room. In total, 12 persons in changing room.
+Client 138 waiting to get swim fins.
+Client 129 starts changing. In total, 13 persons in changing room.
+Client 128 bought his ticket
+Client 105 leaves pool. Swimming over.
+Client 105 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 105 starts changing. In total, 14 persons in changing room.
+Client 138 is renting a pair of swimming fins. 0 swim fins left.
+Client 144 waiting to get swim fins.
+Client 138 swimming now for the next 51 minutes.
+Client 100 leaves pool. Swimming over.
+Client 100 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 100 starts changing. In total, 15 persons in changing room.
+Client 144 is renting a pair of swimming fins. 0 swim fins left.
+Client 144 swimming now for the next 51 minutes.
+Client 136 leaves changing room. In total, 14 persons in changing room.
+Client 136 swimming now for the next 31 minutes.
+Client 128 starts changing. In total, 15 persons in changing room.
+Client 127 bought his ticket
+Client 137 leaves changing room. In total, 14 persons in changing room.
+Client 137 waiting to get swim fins.
+Client 127 starts changing. In total, 15 persons in changing room.
+Client 126 bought his ticket
+Client 103 leaves pool. Swimming over.
+Client 103 waiting to enter changing room.
+Client 135 leaves changing room. In total, 14 persons in changing room.
+Client 103 starts changing. In total, 15 persons in changing room.
+Client 135 waiting to get swim fins.
+Client 126 waiting to enter changing room.
+Client 124 bought his ticket
+Client 104 leaves pool. Swimming over.
+Client 104 waiting to enter changing room.
+Client 134 leaves changing room. In total, 14 persons in changing room.
+Client 134 swimming now for the next 29 minutes.
+Client 104 starts changing. In total, 15 persons in changing room.
+Client 126 waiting to enter changing room.
+Client 123 bought his ticket
+Client 124 waiting to enter changing room.
+Client 132 leaves changing room. In total, 14 persons in changing room.
+Client 132 swimming now for the next 46 minutes.
+Client 124 starts changing. In total, 15 persons in changing room.
+Client 126 waiting to enter changing room.
+Client 123 waiting to enter changing room.
+Client 122 bought his ticket
+Client 133 leaves changing room. In total, 14 persons in changing room.
+Client 133 waiting to get swim fins.
+Client 123 starts changing. In total, 15 persons in changing room.
+Client 126 waiting to enter changing room.
+Client 122 waiting to enter changing room.
+Client 121 bought his ticket
+Client 125 leaves changing room. In total, 14 persons in changing room.
+Client 125 waiting to get swim fins.
+Client 122 starts changing. In total, 15 persons in changing room.
+Client 126 waiting to enter changing room.
+Client 121 waiting to enter changing room.
+Client 120 bought his ticket
+Client 131 leaves changing room. In total, 14 persons in changing room.
+Client 131 waiting to get swim fins.
+Client 121 starts changing. In total, 15 persons in changing room.
+Client 126 waiting to enter changing room.
+Client 120 waiting to enter changing room.
+Client 119 bought his ticket
+Client 142 leaves changing room. In total, 14 persons in changing room.
+Client 120 starts changing. In total, 15 persons in changing room.
+Client 126 waiting to enter changing room.
+Client 110 leaves changing room. In total, 14 persons in changing room.
+Client 126 starts changing. In total, 15 persons in changing room.
+Client 101 leaves changing room. In total, 14 persons in changing room.
+Client 130 leaves changing room. In total, 13 persons in changing room.
+Client 130 swimming now for the next 31 minutes.
+Client 119 starts changing. In total, 14 persons in changing room.
+Client 118 bought his ticket
+Client 129 leaves changing room. In total, 13 persons in changing room.
+Client 129 waiting to get swim fins.
+Client 118 starts changing. In total, 14 persons in changing room.
+Client 105 leaves changing room. In total, 13 persons in changing room.
+Client 100 leaves changing room. In total, 12 persons in changing room.
+Client 128 leaves changing room. In total, 11 persons in changing room.
+Client 128 swimming now for the next 4 minutes.
+Client 127 leaves changing room. In total, 10 persons in changing room.
+Client 127 swimming now for the next 52 minutes.
+Client 103 leaves changing room. In total, 9 persons in changing room.
+Client 104 leaves changing room. In total, 8 persons in changing room.
+Client 124 leaves changing room. In total, 7 persons in changing room.
+Client 124 waiting to get swim fins.
+Client 128 leaves pool. Swimming over.
+Client 128 starts changing. In total, 8 persons in changing room.
+Client 123 leaves changing room. In total, 7 persons in changing room.
+Client 123 waiting to get swim fins.
+Client 122 leaves changing room. In total, 6 persons in changing room.
+Client 122 swimming now for the next 8 minutes.
+Client 121 leaves changing room. In total, 5 persons in changing room.
+Client 121 swimming now for the next 43 minutes.
+Client 120 leaves changing room. In total, 4 persons in changing room.
+Client 120 swimming now for the next 46 minutes.
+Client 126 leaves changing room. In total, 3 persons in changing room.
+Client 126 swimming now for the next 28 minutes.
+Client 119 leaves changing room. In total, 2 persons in changing room.
+Client 119 swimming now for the next 42 minutes.
+Client 118 leaves changing room. In total, 1 persons in changing room.
+Client 118 waiting to get swim fins.
+Client 122 leaves pool. Swimming over.
+Client 122 starts changing. In total, 2 persons in changing room.
+Client 128 leaves changing room. In total, 1 persons in changing room.
+Client 141 leaves pool. Swimming over.
+Client 141 starts changing. In total, 2 persons in changing room.
+Client 117 leaves pool. Swimming over.
+Client 117 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 117 starts changing. In total, 3 persons in changing room.
+Client 118 is renting a pair of swimming fins. 0 swim fins left.
+Client 118 swimming now for the next 25 minutes.
+Client 123 waiting to get swim fins.
+Client 124 waiting to get swim fins.
+Client 129 waiting to get swim fins.
+Client 131 waiting to get swim fins.
+Client 125 waiting to get swim fins.
+Client 133 waiting to get swim fins.
+Client 135 waiting to get swim fins.
+Client 137 waiting to get swim fins.
+Client 136 leaves pool. Swimming over.
+Client 136 starts changing. In total, 4 persons in changing room.
+Client 134 leaves pool. Swimming over.
+Client 134 starts changing. In total, 5 persons in changing room.
+Client 122 leaves changing room. In total, 4 persons in changing room.
+Client 139 leaves pool. Swimming over.
+Client 139 starts changing. In total, 5 persons in changing room.
+Client 143 leaves pool. Swimming over.
+Client 143 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 143 starts changing. In total, 6 persons in changing room.
+Client 137 is renting a pair of swimming fins. 0 swim fins left.
+Client 137 swimming now for the next 59 minutes.
+Client 135 waiting to get swim fins.
+Client 133 waiting to get swim fins.
+Client 125 waiting to get swim fins.
+Client 131 waiting to get swim fins.
+Client 129 waiting to get swim fins.
+Client 124 waiting to get swim fins.
+Client 123 waiting to get swim fins.
+Client 141 leaves changing room. In total, 5 persons in changing room.
+Client 117 leaves changing room. In total, 4 persons in changing room.
+Client 130 leaves pool. Swimming over.
+Client 130 starts changing. In total, 5 persons in changing room.
+Client 140 leaves pool. Swimming over.
+Client 140 starts changing. In total, 6 persons in changing room.
+27 new customers have arrived.
+Client 145 bought his ticket
+Client 136 leaves changing room. In total, 5 persons in changing room.
+Client 145 starts changing. In total, 6 persons in changing room.
+Client 171 bought his ticket
+Client 134 leaves changing room. In total, 5 persons in changing room.
+Client 171 starts changing. In total, 6 persons in changing room.
+Client 170 bought his ticket
+Client 170 starts changing. In total, 7 persons in changing room.
+Client 169 bought his ticket
+Client 169 starts changing. In total, 8 persons in changing room.
+Client 168 bought his ticket
+Client 139 leaves changing room. In total, 7 persons in changing room.
+Client 168 starts changing. In total, 8 persons in changing room.
+Client 167 bought his ticket
+Client 126 leaves pool. Swimming over.
+Client 126 starts changing. In total, 9 persons in changing room.
+Client 143 leaves changing room. In total, 8 persons in changing room.
+Client 167 starts changing. In total, 9 persons in changing room.
+Client 166 bought his ticket
+Client 166 starts changing. In total, 10 persons in changing room.
+Client 165 bought his ticket
+Client 165 starts changing. In total, 11 persons in changing room.
+Client 164 bought his ticket
+Client 130 leaves changing room. In total, 10 persons in changing room.
+Client 140 leaves changing room. In total, 9 persons in changing room.
+Client 164 starts changing. In total, 10 persons in changing room.
+Client 163 bought his ticket
+Client 132 leaves pool. Swimming over.
+Client 132 starts changing. In total, 11 persons in changing room.
+Client 138 leaves pool. Swimming over.
+Client 138 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 138 starts changing. In total, 12 persons in changing room.
+Client 123 is renting a pair of swimming fins. 0 swim fins left.
+Client 123 swimming now for the next 56 minutes.
+Client 124 waiting to get swim fins.
+Client 129 waiting to get swim fins.
+Client 131 waiting to get swim fins.
+Client 125 waiting to get swim fins.
+Client 133 waiting to get swim fins.
+Client 135 waiting to get swim fins.
+Client 144 leaves pool. Swimming over.
+Client 144 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 144 starts changing. In total, 13 persons in changing room.
+Client 135 is renting a pair of swimming fins. 0 swim fins left.
+Client 135 swimming now for the next 33 minutes.
+Client 133 waiting to get swim fins.
+Client 125 waiting to get swim fins.
+Client 131 waiting to get swim fins.
+Client 129 waiting to get swim fins.
+Client 124 waiting to get swim fins.
+Client 163 starts changing. In total, 14 persons in changing room.
+Client 162 bought his ticket
+Client 145 leaves changing room. In total, 13 persons in changing room.
+Client 145 swimming now for the next 59 minutes.
+Client 162 starts changing. In total, 14 persons in changing room.
+Client 161 bought his ticket
+Client 171 leaves changing room. In total, 13 persons in changing room.
+Client 171 swimming now for the next 28 minutes.
+Client 161 starts changing. In total, 14 persons in changing room.
+Client 160 bought his ticket
+Client 118 leaves pool. Swimming over.
+Client 118 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 118 starts changing. In total, 15 persons in changing room.
+Client 124 is renting a pair of swimming fins. 0 swim fins left.
+Client 124 swimming now for the next 23 minutes.
+Client 129 waiting to get swim fins.
+Client 131 waiting to get swim fins.
+Client 125 waiting to get swim fins.
+Client 133 waiting to get swim fins.
+Client 170 leaves changing room. In total, 14 persons in changing room.
+Client 170 swimming now for the next 27 minutes.
+Client 160 starts changing. In total, 15 persons in changing room.
+Client 159 bought his ticket
+Client 169 leaves changing room. In total, 14 persons in changing room.
+Client 169 swimming now for the next 44 minutes.
+Client 159 starts changing. In total, 15 persons in changing room.
+Client 158 bought his ticket
+Client 168 leaves changing room. In total, 14 persons in changing room.
+Client 168 swimming now for the next 48 minutes.
+Client 158 starts changing. In total, 15 persons in changing room.
+Client 156 bought his ticket
+Client 126 leaves changing room. In total, 14 persons in changing room.
+Client 167 leaves changing room. In total, 13 persons in changing room.
+Client 167 waiting to get swim fins.
+Client 156 starts changing. In total, 14 persons in changing room.
+Client 157 bought his ticket
+Client 166 leaves changing room. In total, 13 persons in changing room.
+Client 166 swimming now for the next 34 minutes.
+Client 157 starts changing. In total, 14 persons in changing room.
+Client 154 bought his ticket
+Client 165 leaves changing room. In total, 13 persons in changing room.
+Client 165 waiting to get swim fins.
+Client 154 starts changing. In total, 14 persons in changing room.
+Client 155 bought his ticket
+Client 164 leaves changing room. In total, 13 persons in changing room.
+Client 132 leaves changing room. In total, 12 persons in changing room.
+Client 164 swimming now for the next 9 minutes.
+Client 121 leaves pool. Swimming over.
+Client 121 starts changing. In total, 13 persons in changing room.
+Client 155 starts changing. In total, 14 persons in changing room.
+Client 153 bought his ticket
+Client 119 leaves pool. Swimming over.
+Client 119 starts changing. In total, 15 persons in changing room.
+Client 138 leaves changing room. In total, 14 persons in changing room.
+Client 144 leaves changing room. In total, 13 persons in changing room.
+Client 163 leaves changing room. In total, 12 persons in changing room.
+Client 163 swimming now for the next 19 minutes.
+Client 153 starts changing. In total, 13 persons in changing room.
+Client 151 bought his ticket
+Client 162 leaves changing room. In total, 12 persons in changing room.
+Client 162 waiting to get swim fins.
+Client 151 starts changing. In total, 13 persons in changing room.
+Client 152 bought his ticket
+Client 161 leaves changing room. In total, 12 persons in changing room.
+Client 161 swimming now for the next 8 minutes.
+Client 118 leaves changing room. In total, 11 persons in changing room.
+Client 150 bought his ticket
+Client 152 starts changing. In total, 12 persons in changing room.
+Client 120 leaves pool. Swimming over.
+Client 120 starts changing. In total, 13 persons in changing room.
+Client 127 leaves pool. Swimming over.
+Client 127 starts changing. In total, 14 persons in changing room.
+Client 160 leaves changing room. In total, 13 persons in changing room.
+Client 160 waiting to get swim fins.
+Client 150 starts changing. In total, 14 persons in changing room.
+Client 149 bought his ticket
+Client 159 leaves changing room. In total, 13 persons in changing room.
+Client 159 waiting to get swim fins.
+Client 149 starts changing. In total, 14 persons in changing room.
+Client 148 bought his ticket
+Client 158 leaves changing room. In total, 13 persons in changing room.
+Client 158 swimming now for the next 1 minutes.
+Client 148 starts changing. In total, 14 persons in changing room.
+Client 147 bought his ticket
+Client 156 leaves changing room. In total, 13 persons in changing room.
+Client 156 waiting to get swim fins.
+Client 147 starts changing. In total, 14 persons in changing room.
+Client 146 bought his ticket
+Client 158 leaves pool. Swimming over.
+Client 158 starts changing. In total, 15 persons in changing room.
+Client 157 leaves changing room. In total, 14 persons in changing room.
+Client 157 waiting to get swim fins.
+Client 146 starts changing. In total, 15 persons in changing room.
+Client 164 leaves pool. Swimming over.
+Client 164 waiting to enter changing room.
+Client 154 leaves changing room. In total, 14 persons in changing room.
+Client 164 starts changing. In total, 15 persons in changing room.
+Client 154 swimming now for the next 38 minutes.
+Client 121 leaves changing room. In total, 14 persons in changing room.
+Client 155 leaves changing room. In total, 13 persons in changing room.
+Client 155 swimming now for the next 37 minutes.
+Client 119 leaves changing room. In total, 12 persons in changing room.
+Client 161 leaves pool. Swimming over.
+Client 153 leaves changing room. In total, 11 persons in changing room.
+Client 153 waiting to get swim fins.
+Client 161 starts changing. In total, 12 persons in changing room.
+Client 151 leaves changing room. In total, 11 persons in changing room.
+Client 151 swimming now for the next 3 minutes.
+Client 152 leaves changing room. In total, 10 persons in changing room.
+Client 152 swimming now for the next 7 minutes.
+Client 120 leaves changing room. In total, 9 persons in changing room.
+Client 127 leaves changing room. In total, 8 persons in changing room.
+Client 150 leaves changing room. In total, 7 persons in changing room.
+Client 150 waiting to get swim fins.
+Client 149 leaves changing room. In total, 6 persons in changing room.
+Client 149 waiting to get swim fins.
+Client 151 leaves pool. Swimming over.
+Client 151 starts changing. In total, 7 persons in changing room.
+Client 148 leaves changing room. In total, 6 persons in changing room.
+Client 148 waiting to get swim fins.
+Client 124 leaves pool. Swimming over.
+Client 124 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 124 starts changing. In total, 7 persons in changing room.
+Client 148 is renting a pair of swimming fins. 0 swim fins left.
+Client 148 swimming now for the next 12 minutes.
+Client 149 waiting to get swim fins.
+Client 150 waiting to get swim fins.
+Client 153 waiting to get swim fins.
+Client 157 waiting to get swim fins.
+Client 156 waiting to get swim fins.
+Client 159 waiting to get swim fins.
+Client 160 waiting to get swim fins.
+Client 162 waiting to get swim fins.
+Client 165 waiting to get swim fins.
+Client 167 waiting to get swim fins.
+Client 133 waiting to get swim fins.
+Client 125 waiting to get swim fins.
+Client 131 waiting to get swim fins.
+Client 129 waiting to get swim fins.
+Client 147 leaves changing room. In total, 6 persons in changing room.
+Client 147 swimming now for the next 15 minutes.
+Client 158 leaves changing room. In total, 5 persons in changing room.
+Client 146 leaves changing room. In total, 4 persons in changing room.
+Client 146 swimming now for the next 22 minutes.
+Client 164 leaves changing room. In total, 3 persons in changing room.
+Client 163 leaves pool. Swimming over.
+Client 163 starts changing. In total, 4 persons in changing room.
+Client 152 leaves pool. Swimming over.
+Client 152 starts changing. In total, 5 persons in changing room.
+Client 171 leaves pool. Swimming over.
+Client 171 starts changing. In total, 6 persons in changing room.
+Client 161 leaves changing room. In total, 5 persons in changing room.
+Client 170 leaves pool. Swimming over.
+Client 170 starts changing. In total, 6 persons in changing room.
+Client 135 leaves pool. Swimming over.
+Client 135 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 135 starts changing. In total, 7 persons in changing room.
+Client 129 is renting a pair of swimming fins. 0 swim fins left.
+Client 129 swimming now for the next 2 minutes.
+Client 131 waiting to get swim fins.
+Client 125 waiting to get swim fins.
+Client 133 waiting to get swim fins.
+Client 167 waiting to get swim fins.
+Client 165 waiting to get swim fins.
+Client 162 waiting to get swim fins.
+Client 160 waiting to get swim fins.
+Client 159 waiting to get swim fins.
+Client 156 waiting to get swim fins.
+Client 157 waiting to get swim fins.
+Client 153 waiting to get swim fins.
+Client 150 waiting to get swim fins.
+Client 149 waiting to get swim fins.
+Client 129 leaves pool. Swimming over.
+Client 129 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 129 starts changing. In total, 8 persons in changing room.
+Client 149 is renting a pair of swimming fins. 0 swim fins left.
+Client 149 swimming now for the next 28 minutes.
+Client 150 waiting to get swim fins.
+Client 153 waiting to get swim fins.
+Client 157 waiting to get swim fins.
+Client 156 waiting to get swim fins.
+Client 159 waiting to get swim fins.
+Client 160 waiting to get swim fins.
+Client 162 waiting to get swim fins.
+Client 165 waiting to get swim fins.
+Client 167 waiting to get swim fins.
+Client 133 waiting to get swim fins.
+Client 125 waiting to get swim fins.
+Client 131 waiting to get swim fins.
+Client 151 leaves changing room. In total, 7 persons in changing room.
+Client 124 leaves changing room. In total, 6 persons in changing room.
+Client 148 leaves pool. Swimming over.
+Client 148 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 148 starts changing. In total, 7 persons in changing room.
+Client 131 is renting a pair of swimming fins. 0 swim fins left.
+Client 131 swimming now for the next 9 minutes.
+Client 125 waiting to get swim fins.
+Client 133 waiting to get swim fins.
+Client 167 waiting to get swim fins.
+Client 165 waiting to get swim fins.
+Client 162 waiting to get swim fins.
+Client 160 waiting to get swim fins.
+Client 159 waiting to get swim fins.
+Client 156 waiting to get swim fins.
+Client 157 waiting to get swim fins.
+Client 153 waiting to get swim fins.
+Client 150 waiting to get swim fins.
+Client 163 leaves changing room. In total, 6 persons in changing room.
+Client 152 leaves changing room. In total, 5 persons in changing room.
+Client 171 leaves changing room. In total, 4 persons in changing room.
+Client 170 leaves changing room. In total, 3 persons in changing room.
+Client 166 leaves pool. Swimming over.
+Client 166 starts changing. In total, 4 persons in changing room.
+Client 147 leaves pool. Swimming over.
+Client 147 starts changing. In total, 5 persons in changing room.
+Client 135 leaves changing room. In total, 4 persons in changing room.
+Client 137 leaves pool. Swimming over.
+Client 137 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 150 is renting a pair of swimming fins. 0 swim fins left.
+Client 137 starts changing. In total, 5 persons in changing room.
+Client 153 waiting to get swim fins.
+Client 150 swimming now for the next 48 minutes.
+Client 157 waiting to get swim fins.
+Client 156 waiting to get swim fins.
+Client 159 waiting to get swim fins.
+Client 160 waiting to get swim fins.
+Client 162 waiting to get swim fins.
+Client 165 waiting to get swim fins.
+Client 167 waiting to get swim fins.
+Client 133 waiting to get swim fins.
+Client 125 waiting to get swim fins.
+Client 129 leaves changing room. In total, 4 persons in changing room.
+Client 131 leaves pool. Swimming over.
+Client 131 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 131 starts changing. In total, 5 persons in changing room.
+Client 125 is renting a pair of swimming fins. 0 swim fins left.
+Client 133 waiting to get swim fins.
+Client 125 swimming now for the next 28 minutes.
+Client 167 waiting to get swim fins.
+Client 165 waiting to get swim fins.
+Client 162 waiting to get swim fins.
+Client 160 waiting to get swim fins.
+Client 159 waiting to get swim fins.
+Client 156 waiting to get swim fins.
+Client 157 waiting to get swim fins.
+Client 153 waiting to get swim fins.
+Client 148 leaves changing room. In total, 4 persons in changing room.
+Client 169 leaves pool. Swimming over.
+Client 169 starts changing. In total, 5 persons in changing room.
+Client 146 leaves pool. Swimming over.
+Client 146 starts changing. In total, 6 persons in changing room.
+Client 166 leaves changing room. In total, 5 persons in changing room.
+Client 147 leaves changing room. In total, 4 persons in changing room.
+Client 168 leaves pool. Swimming over.
+Client 168 starts changing. In total, 5 persons in changing room.
+Client 137 leaves changing room. In total, 4 persons in changing room.
+Client 123 leaves pool. Swimming over.
+Client 123 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 123 starts changing. In total, 5 persons in changing room.
+Client 153 is renting a pair of swimming fins. 0 swim fins left.
+Client 153 swimming now for the next 33 minutes.
+Client 157 waiting to get swim fins.
+Client 156 waiting to get swim fins.
+Client 159 waiting to get swim fins.
+Client 160 waiting to get swim fins.
+Client 162 waiting to get swim fins.
+Client 165 waiting to get swim fins.
+Client 167 waiting to get swim fins.
+Client 133 waiting to get swim fins.
+Client 155 leaves pool. Swimming over.
+Client 155 starts changing. In total, 6 persons in changing room.
+Client 154 leaves pool. Swimming over.
+Client 154 starts changing. In total, 7 persons in changing room.
+Client 131 leaves changing room. In total, 6 persons in changing room.
+Client 169 leaves changing room. In total, 5 persons in changing room.
+Client 146 leaves changing room. In total, 4 persons in changing room.
+Client 145 leaves pool. Swimming over.
+Client 145 starts changing. In total, 5 persons in changing room.
+Client 168 leaves changing room. In total, 4 persons in changing room.
+Client 149 leaves pool. Swimming over.
+Client 149 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 133 is renting a pair of swimming fins. 0 swim fins left.
+Client 149 starts changing. In total, 5 persons in changing room.
+Client 133 swimming now for the next 52 minutes.
+Client 167 waiting to get swim fins.
+Client 165 waiting to get swim fins.
+Client 162 waiting to get swim fins.
+Client 160 waiting to get swim fins.
+Client 159 waiting to get swim fins.
+Client 156 waiting to get swim fins.
+Client 157 waiting to get swim fins.
+Client 123 leaves changing room. In total, 4 persons in changing room.
+Client 155 leaves changing room. In total, 3 persons in changing room.
+Client 154 leaves changing room. In total, 2 persons in changing room.
+Client 145 leaves changing room. In total, 1 persons in changing room.
+Client 149 leaves changing room. In total, 0 persons in changing room.
+Client 125 leaves pool. Swimming over.
+Client 125 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 157 is renting a pair of swimming fins. 0 swim fins left.
+Client 156 waiting to get swim fins.
+Client 125 starts changing. In total, 1 persons in changing room.
+Client 157 swimming now for the next 6 minutes.
+Client 159 waiting to get swim fins.
+Client 160 waiting to get swim fins.
+Client 162 waiting to get swim fins.
+Client 165 waiting to get swim fins.
+Client 167 waiting to get swim fins.
+Client 157 leaves pool. Swimming over.
+Client 157 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 157 starts changing. In total, 2 persons in changing room.
+Client 167 is renting a pair of swimming fins. 0 swim fins left.
+Client 165 waiting to get swim fins.
+Client 167 swimming now for the next 38 minutes.
+Client 162 waiting to get swim fins.
+Client 160 waiting to get swim fins.
+Client 159 waiting to get swim fins.
+Client 156 waiting to get swim fins.
+Client 125 leaves changing room. In total, 1 persons in changing room.
+Client 153 leaves pool. Swimming over.
+Client 153 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 156 is renting a pair of swimming fins. 0 swim fins left.
+Client 153 starts changing. In total, 2 persons in changing room.
+Client 159 waiting to get swim fins.
+Client 156 swimming now for the next 14 minutes.
+Client 160 waiting to get swim fins.
+Client 162 waiting to get swim fins.
+Client 165 waiting to get swim fins.
+Client 150 leaves pool. Swimming over.
+Client 150 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 150 starts changing. In total, 3 persons in changing room.
+Client 165 is renting a pair of swimming fins. 0 swim fins left.
+Client 165 swimming now for the next 8 minutes.
+Client 162 waiting to get swim fins.
+Client 160 waiting to get swim fins.
+Client 159 waiting to get swim fins.
+Client 157 leaves changing room. In total, 2 persons in changing room.
+Client 153 leaves changing room. In total, 1 persons in changing room.
+Client 165 leaves pool. Swimming over.
+Client 165 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 165 starts changing. In total, 2 persons in changing room.
+Client 159 is renting a pair of swimming fins. 0 swim fins left.
+Client 159 swimming now for the next 16 minutes.
+Client 160 waiting to get swim fins.
+Client 162 waiting to get swim fins.
+Client 150 leaves changing room. In total, 1 persons in changing room.
+Client 156 leaves pool. Swimming over.
+Client 156 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 156 starts changing. In total, 2 persons in changing room.
+Client 162 is renting a pair of swimming fins. 0 swim fins left.
+Client 160 waiting to get swim fins.
+Client 162 swimming now for the next 49 minutes.
+Client 165 leaves changing room. In total, 1 persons in changing room.
+Client 156 leaves changing room. In total, 0 persons in changing room.
+Client 133 leaves pool. Swimming over.
+Client 133 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 133 starts changing. In total, 1 persons in changing room.
+Client 160 is renting a pair of swimming fins. 0 swim fins left.
+Client 160 swimming now for the next 52 minutes.
+Client 159 leaves pool. Swimming over.
+Client 159 is returning the borrowed swimming fins. 2 swim finds are still available
+Client 159 starts changing. In total, 2 persons in changing room.
+Client 167 leaves pool. Swimming over.
+Client 167 is returning the borrowed swimming fins. 4 swim finds are still available
+Client 167 starts changing. In total, 3 persons in changing room.
+Client 133 leaves changing room. In total, 2 persons in changing room.
+Client 159 leaves changing room. In total, 1 persons in changing room.
+Client 167 leaves changing room. In total, 0 persons in changing room.
+Client 162 leaves pool. Swimming over.
+Client 162 is returning the borrowed swimming fins. 6 swim finds are still available
+Client 162 starts changing. In total, 1 persons in changing room.
+Client 162 leaves changing room. In total, 0 persons in changing room.
+Client 160 leaves pool. Swimming over.
+Client 160 is returning the borrowed swimming fins. 8 swim finds are still available
+Client 160 starts changing. In total, 1 persons in changing room.
+Jean Luc finished cleaning the pool. 'Avec plaisir' 
+Client 160 leaves changing room. In total, 0 persons in changing room.
+
+Process finished with exit code 0
